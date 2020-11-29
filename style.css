@@ -1,0 +1,84 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.header{
+    background-color: #f5f5f5;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    height: 140px;
+}
+
+.logo img{
+    height: 120px;
+    float: left;
+}
+
+.buttons img{
+    width: 25px;
+    height: 25px;
+}
+
+.buttons a{
+    display: block;
+    text-align: right;
+    margin-bottom: 5px
+}
+
+.buttons{
+    margin-right: 20px;
+}
+
+.about_us{
+    background-color: #f5f5f5;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 480px;
+    
+}
+
+.about_us img{
+    height: 480px;
+    margin-right: 30px;
+    float: left;
+}
+
+.contact_us{
+    clear: both;
+}
+
+.footer{
+    background-color: #f5f5f5;
+}
+
+.items div{
+    display: inline-block;
+    margin: 20px;
+}
+
+.items img{
+    width: 220px;
+    height: 220px;
+}
+
+.intro{    
+    text-align: center;
+}
+
+.items p{
+    text-align: center;
+}
+
+.contact_us{    
+    text-align: center;
+}
+
+.contact_us img{
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+}
